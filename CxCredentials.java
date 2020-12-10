@@ -18,7 +18,7 @@ import java.util.List;
 public class CxCredentials {
 
     private String serverUrl;
-    private String username;
+    private String user;
     private String encryptedPassword;
 
     public String getServerUrl() {
